@@ -1,0 +1,24 @@
+
+
+
+#slider1{
+    height: 400px;
+    background: url("https://source.unsplash.com/user/jackie/");
+    color: white;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content:center ;
+    
+}
+
+#slider2{
+    
+    height: 400px;
+    background: url("https://source.unsplash.com/user/erondu/");
+    color: white;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
